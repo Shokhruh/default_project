@@ -37,9 +37,30 @@ flutter:
     - assets/svg/
     - assets/translations/
 
-#  fonts:
-#    - family: Schyler
-#      fonts:
-#        - asset: fonts/Schyler-Regular.ttf
-#        - asset: fonts/Schyler-Italic.ttf
-#          style: italic
+  fonts:
+    - family: SF-Pro
+      fonts:
+        - asset: assets/fonts/SF-Pro-Text-Black.otf
+        - asset: assets/fonts/SF-Pro-Text-BlackItalic.otf
+        - asset: assets/fonts/SF-Pro-Text-Bold.otf
+        - asset: assets/fonts/SF-Pro-Text-BoldItalic.otf
+        - asset: assets/fonts/SF-Pro-Text-Heavy.otf
+        - asset: assets/fonts/SF-Pro-Text-HeavyItalic.otf
+        - asset: assets/fonts/SF-Pro-Text-Light.otf
+        - asset: assets/fonts/SF-Pro-Text-LightItalic.otf
+        - asset: assets/fonts/SF-Pro-Text-Medium.otf
+        - asset: assets/fonts/SF-Pro-Text-MediumItalic.otf
+        - asset: assets/fonts/SF-Pro-Text-Regular.otf
+        - asset: assets/fonts/SF-Pro-Text-RegularItalic.otf
+        - asset: assets/fonts/SF-Pro-Text-Semibold.otf
+        - asset: assets/fonts/SF-Pro-Text-SemiboldItalic.otf
+        - asset: assets/fonts/SF-Pro-Text-Thin.otf
+        - asset: assets/fonts/SF-Pro-Text-ThinItalic.otf
+        - asset: assets/fonts/SF-Pro-Text-Ultralight.otf
+        - asset: assets/fonts/SF-Pro-Text-UltralightItalic.otf
+          style: italic
+
+    - family: PT-Mono
+      fonts:
+        - asset: assets/fonts/PTM55FT.ttf
+          style: italic
